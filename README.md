@@ -22,8 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# hello_app2
-# hello_app2
-# hello_app2
-# hello_app
-# hello_app2
+# helloapp
